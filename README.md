@@ -19,7 +19,7 @@
 # Как работает 
 ```bash
 
-$ password_strength.py
+$ python password_strength.py
 Введите пароль: hjfj1991j
 Надежность пароля 7
 
@@ -42,7 +42,7 @@ $ password_strength.py
 
 ```bash
 
-$ password_strength.py
+$ python password_strength.py
 
 ```
 
