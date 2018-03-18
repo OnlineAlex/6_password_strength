@@ -43,8 +43,8 @@ def not_popular_passwords(password):
 
 def not_name_in_password(password):
     popular_names = load_file('foreign_names.txt')
-    for name in popular_names:
-        if name in password.lower():
+    for popular_name in popular_names:
+        if popular_name in password.lower():
             return False
 
     return True
