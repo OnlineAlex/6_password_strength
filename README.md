@@ -21,7 +21,7 @@
 ```bash
 
 $ python password_strength.py
-Введите пароль: hjfj1991j
+Введите пароль: 
 Надежность пароля 7
 
 ```
