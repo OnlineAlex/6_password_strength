@@ -13,9 +13,10 @@
 
 Дополнительные файлы:
 ---------------------
-1. `bad_passwords.txt` - 85 000 паролей запрещенных для ввода на [Dropbox.com](https://www.dropbox.com)
-2. `foreign_names.txt` - 1998 мужских и женских популярных имен
-
+1. `10-million-password-list-top-100000.txt` - 100 000 распостраненных паролей. 
+Актуальную версию можно [скачать на Github.com](https://github.com/danielmiessler/SecLists/blob/master/Passwords/Common-Credentials/10-million-password-list-top-100000.txt)
+2. `names.txt` - более 10 000 мужских и женских популярных имен.
+Актуальную версию можно [скачать на Github.com](https://github.com/danielmiessler/SecLists/blob/master/Usernames/Names/names.txt)
 # Как работает 
 ```bash
 
